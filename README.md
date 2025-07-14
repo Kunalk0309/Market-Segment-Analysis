@@ -42,9 +42,3 @@ Built custom visualizations to explore customer behavior
 
 Gained insight into market segmentation using EDA
 
-## 🚀 Run the Project
-
-git clone https://github.com/yourusername/mall-segmentation-analysis.git
-cd mall-segmentation-analysis
-jupyter notebook
-Open the notebook and run cells to see the analysis.
